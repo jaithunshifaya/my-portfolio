@@ -80,7 +80,7 @@ LinkedIn: https://www.linkedin.com/in/jaithun-shifaya
 
 GitHub: https://github.com/jaithunshifaya
 
-Email: jiathunshifaya@gmail.com
+Email: jaithunshifaya@gmail.com
 
 ## ⭐ Acknowledgements
 
