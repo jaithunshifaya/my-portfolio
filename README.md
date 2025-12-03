@@ -51,8 +51,8 @@ npm install
 
 # Start development server
 npm run dev
+```
 
----
 
 ## 🚀 Deployment
 
@@ -60,17 +60,17 @@ This project is deployed on Netlify.
 
 To deploy your own version:
 
-Push your project to GitHub
+1. Push your project to GitHub
 
-Login to Netlify
+2. Login to Netlify
 
-Click "New Site from Git"
+3. Click "New Site from Git"
 
-Select your GitHub repository
+4. Select your GitHub repository
 
-Build command: npm run build
+5. Build command: npm run build
 
-Publish directory: dist/
+6. Publish directory: dist/
 
 ## 📬 Contact
 
