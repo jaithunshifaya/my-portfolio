@@ -32,28 +32,25 @@ It showcases my skills, projects, experience, certifications, and contact detail
 - 🌙 Smooth scroll and clean navigation  
 - ⚡ Fast performance with Vite bundling  
 
+
 ---
 
-## 📁 Folder Structure
+## 🛠 Installation & Setup
 
-project/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Header.tsx
-│ │ ├── Hero.tsx
-│ │ ├── About.tsx
-│ │ ├── Skills.tsx
-│ │ ├── Projects.tsx
-│ │ ├── Experience.tsx
-│ │ ├── Certifications.tsx
-│ │ ├── Contact.tsx
-│ │ └── Footer.tsx
-│ ├── App.tsx
-│ └── main.tsx
-├── package.json
-├── tsconfig.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/portfolio.git
+
+# Go into the project folder
+cd portfolio/project
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
 
