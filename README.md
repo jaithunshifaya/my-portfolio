@@ -52,5 +52,39 @@ npm install
 # Start development server
 npm run dev
 
+---
+
+## 🚀 Deployment
+
+This project is deployed on Netlify.
+
+To deploy your own version:
+
+Push your project to GitHub
+
+Login to Netlify
+
+Click "New Site from Git"
+
+Select your GitHub repository
+
+Build command: npm run build
+
+Publish directory: dist/
+
+## 📬 Contact
+
+If you want to reach out, feel free to connect!
+
+LinkedIn: https://www.linkedin.com/in/jaithun-shifaya
+
+GitHub: https://github.com/jaithunshifaya
+
+Email: jiathunshifaya@gmail.com
+
+## ⭐ Acknowledgements
+
+This portfolio was designed and developed by Jaithun Shifaya to showcase personal skills, projects, and professional experience.
+
 
 
