@@ -36,3 +36,24 @@ It showcases my skills, projects, experience, certifications, and contact detail
 
 ## 📁 Folder Structure
 
+project/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Header.tsx
+│ │ ├── Hero.tsx
+│ │ ├── About.tsx
+│ │ ├── Skills.tsx
+│ │ ├── Projects.tsx
+│ │ ├── Experience.tsx
+│ │ ├── Certifications.tsx
+│ │ ├── Contact.tsx
+│ │ └── Footer.tsx
+│ ├── App.tsx
+│ └── main.tsx
+├── package.json
+├── tsconfig.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
